@@ -6,13 +6,13 @@ This repository contains the necessary files to replicate the results obtained i
 
 ## Included Files
 
-- `dataset.csv`: CSV file containing the data used in the study.
+- `results.csv`: CSV file containing the data used in the study.
 - `notebook.ipynb`: Jupyter Notebook containing the code used for the analysis and result generation.
 
 ## Instructions to Replicate
 
 1. **Download Files**:
-   - Download the `dataset.csv` file from the repository.
+   - Download the `results.csv` file from the repository.
    - Clone this repository to your local machine or download the `notebook.ipynb` file directly from here.
 
 2. **Setup Environment**:
